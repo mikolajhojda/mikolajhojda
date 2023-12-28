@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+The majority of my projects are published on <a href="https://www.kaggle.com/mikolajhojda">Kaggle</a>
 <!--
 **mikolajhojda/mikolajhojda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
